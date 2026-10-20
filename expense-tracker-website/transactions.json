@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20261020143542498440",
+    "date": "2026-10-20",
+    "type": "expense",
+    "category": "Salary",
+    "amount": 780.0,
+    "description": "buy clothes"
+  },
+  {
+    "id": "20261020143609635041",
+    "date": "2026-10-06",
+    "type": "income",
+    "category": "Other",
+    "amount": 8900000.0,
+    "description": ""
+  },
+  {
+    "id": "20261020145918185102",
+    "date": "2026-10-20",
+    "type": "expense",
+    "category": "Health",
+    "amount": 7890.0,
+    "description": "hospital"
+  }
+]
